@@ -1,4 +1,3 @@
-Here’s a detailed `README.md` for your project:
 
 ---
 
@@ -110,5 +109,3 @@ On a successful upload, you should receive a JSON response:
 - Clean up the `uploads/` folder regularly as it temporarily stores files before uploading.
 
 ---
-
-This README provides a clear setup and testing process for your project!
